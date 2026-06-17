@@ -7,10 +7,11 @@ This repository contains my Python learning journey.
 * Variables
 * Strings
 * Lists
-* Dictionaries
 
 ## Upcoming Topics
 
+* Tuples
+* Dictionaries
 * Functions
 * Loops
 * OOP
