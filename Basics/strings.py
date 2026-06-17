@@ -1,3 +1,6 @@
 name = "nidhi pandey"
 country = "india"
-print(f"Name: {name.title()}\nCountry: {country.title()}")
+print(name.title())
+print(country.upper())
+print(len(name))
+print(name.replace("pandey","p"))
