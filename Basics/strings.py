@@ -1,3 +1,5 @@
+#Strings Practice
+
 name = "nidhi pandey"
 country = "india"
 print(name.title())
