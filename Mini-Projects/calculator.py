@@ -3,7 +3,7 @@ num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 operation = input("Enter operator (Add/Sub/Mul/Div): ")
 
-#operation
+#operation & printing result
 if operation == "Add":
     print("Result = ",num1+num2)
 elif operation == "Sub":
