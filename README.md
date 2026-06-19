@@ -12,12 +12,11 @@ This repository contains my Python learning journey.
 
 ## Upcoming Topics
 
-* Tuples
-* Dictionaries
 * Functions
 * Loops
 * OOP
 
 ## Mini Projects
 
-Coming soon...
+* Calculator
+
