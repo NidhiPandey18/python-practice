@@ -9,10 +9,11 @@ This repository contains my Python learning journey.
 * Lists
 * Tuples
 * Dictionaries
+* Functions
+
 
 ## Upcoming Topics
 
-* Functions
 * Loops
 * OOP
 
