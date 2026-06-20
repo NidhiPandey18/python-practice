@@ -12,7 +12,7 @@ while count<=5:
     print(count)
     count+=1
 
-#Sum of numbers
+#Q1) Sum of numbers
 total = 0
 
 for num in range(1,6):
@@ -20,12 +20,10 @@ for num in range(1,6):
 
 print("\nSum = ",total)
 
-#Multiplication table
-
+#Q2) Multiplication table
 num = 5
 print("\nMultiplication table of",num)
 
 for i in range(1,11):
     table = num*i
     print(f"{num} * {i} = {table}")
-
