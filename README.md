@@ -10,14 +10,11 @@ This repository contains my Python learning journey.
 * Tuples
 * Dictionaries
 * Functions
-
-
-## Upcoming Topics
-
 * Loops
 * OOP
 
 ## Mini Projects
 
 * Calculator
+* Number Guessing Game
 
