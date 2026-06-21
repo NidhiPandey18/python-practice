@@ -17,4 +17,5 @@ This repository contains my Python learning journey.
 
 * Calculator
 * Number Guessing Game
+* Quiz Game
 
