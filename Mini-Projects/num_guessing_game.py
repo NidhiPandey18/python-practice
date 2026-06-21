@@ -13,4 +13,4 @@ if num == secret_num :
 else:
     print("Computer's number:",secret_num)
     print("You lost :( ")
-
+    
