@@ -5,12 +5,18 @@ import random
 print("\n-----Welcome to Number Guessing Game-----\n")
 
 secret_num = random.randint(1,10)
-num = int(input("Guess the number: "))
+attempts = 0
 
-if num == secret_num :
-    print("Computer's number:",secret_num)
-    print("Congratulations!! You Guessed it right.")
-else:
-    print("Computer's number:",secret_num)
-    print("You lost :( ")
-    
+while True:
+    guess = int(input(("Guess the number: ")))
+    attempts+=1
+
+    #check answer
+    if guess == secret_num:
+        print("\n🎉 Congratulations!,You guessed the number correct.")
+        print(f"Attempts: {attempts}\n")
+        break
+    elif guess < secret_num:
+        print("Too Low! Try again.\n")
+    else:
+        print("Too High! Try again.\n")
