@@ -20,3 +20,4 @@ This repository contains my Python learning journey.
 * Quiz Game
 * Age Calculator
 * To-Do List
+* Password checker
